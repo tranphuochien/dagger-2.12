@@ -1,6 +1,6 @@
 package com.gabrielsamojlo.dagger_212.di;
 
-import com.gabrielsamojlo.dagger_212.MainActivity;
+import com.gabrielsamojlo.dagger_212.ui.MainActivity;
 
 import dagger.Module;
 import dagger.android.ContributesAndroidInjector;

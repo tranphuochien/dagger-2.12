@@ -13,5 +13,8 @@ public class DummyDependency {
     public String getApplicationName() {
         return context.getString(R.string.app_name);
     }
+    public String getVerifyText() {
+        return "Dummny module is injected";
+    }
 
 }
